@@ -4,5 +4,5 @@ Alpine docker image containing usefull tool like
 * bash
 * jq http://stedolan.github.io/jq/
 * yj https://github.com/coryb/yj
-
+* cf Cloudfoundry command line
   
